@@ -1,0 +1,50 @@
+{
+  "name": "insider threat main 3128f68e",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-database-3128f68e-de81-4e4a-b196-f2efa6c3fbb4"
+  ],
+  "id": "a5de6ecf-639a-43bd-b86d-7b171581e007",
+  "metadata": {
+    "neo4jDesktopDbmsDatabases": [
+      {
+        "name": "neo4j",
+        "type": "standard",
+        "aliases": [],
+        "access": "read-write",
+        "address": "localhost:7687",
+        "role": "primary",
+        "writer": true,
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "statusMessage": "",
+        "default": true,
+        "home": true,
+        "constituents": [],
+        "statistics": {
+          "nodes": 0,
+          "relationships": 0,
+          "labels": 0,
+          "relationshipTypes": 0,
+          "propertyKeys": 0
+        }
+      },
+      {
+        "name": "system",
+        "type": "system",
+        "aliases": [],
+        "access": "read-write",
+        "address": "localhost:7687",
+        "role": "primary",
+        "writer": true,
+        "requestedStatus": "online",
+        "currentStatus": "online",
+        "statusMessage": "",
+        "default": false,
+        "home": false,
+        "constituents": []
+      }
+    ]
+  },
+  "isCustomPathInstallation": false
+}
