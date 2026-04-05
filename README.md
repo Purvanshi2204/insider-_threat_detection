@@ -44,7 +44,7 @@ A rule engine flags suspicious behaviors based on:
 **4. Risk Scoring**
 Each user is assigned a dynamic risk score based on their actions, helping prioritize which users need immediate investigation.
 
-**5. Interactive Web Dashboard** *(optional)*
+**5. Interactive Web Dashboard** 
 A Flask-based dashboard displays alerts, activity trends, and risk scores in a clear, easy-to-understand format.
 
 ---
