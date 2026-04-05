@@ -62,7 +62,7 @@ Anomaly Detection Module (Scikit-learn)
         ↓
 Risk Scoring System
         ↓
-Interactive Web Dashboard (Flask)
+Interactive Web Dashboard 
 ```
 
 ---
